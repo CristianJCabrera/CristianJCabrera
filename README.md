@@ -7,7 +7,6 @@ I am a student majoring in Information Security and Computer Science, highly mot
 My experience in Army computer networking and IT has driven a strong interest in cybersecurity. I am seeking to transition into a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my technical foundation, security training, and disciplined problem-solving skills to monitor, detect, and respond to security threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|

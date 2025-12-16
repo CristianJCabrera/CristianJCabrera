@@ -1,4 +1,4 @@
-# Hello, I'm Cristian Cabrera
+# Hello, I'm Cristian ✋
 <a href="https://www.linkedin.com/in/cristian-cabrera-771605273/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a student majoring in Information Security and Computer Science, highly motivated by technology and committed to developing hands-on experience with modern cybersecurity tools and techniques.

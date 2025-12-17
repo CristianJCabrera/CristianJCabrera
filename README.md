@@ -8,9 +8,9 @@ My experience in Army computer networking and IT has driven a strong interest in
 
 ## Skills 🧠
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Labs/Project    |
 |-----------------------------------------------|----------------------------|
-| Windows Server          | <a href="https://google.com">Windows Server</a>|
+| Windows Server             |<a href="https://google.com">Windows Server</a>|
 
 
 ## Tools 🛠️

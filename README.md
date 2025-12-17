@@ -38,5 +38,5 @@ My experience in Army computer networking and IT has driven a strong interest in
     <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-## Projects 📁
+## Labs/Projects 📁
 - X
